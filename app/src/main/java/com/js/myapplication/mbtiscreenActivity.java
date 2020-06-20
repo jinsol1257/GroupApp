@@ -39,7 +39,7 @@ public class mbtiscreenActivity extends AppCompatActivity {
 
         }
 
-        Button analyzebtn =findViewById(R.id.analyzebtn);
+        Button analyzebtn =findViewById(R.id.analyzebtn2);
         analyzebtn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
